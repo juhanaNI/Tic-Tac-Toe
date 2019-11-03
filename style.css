@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    table-layout: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+
+  
+  }
+td {
+    border: 3px solid black;
+    width: 90px;
+    height: 90px;
+    font-size: 50px;
+    text-align: center;
+  }
+
+
+
+ 
+
+  
